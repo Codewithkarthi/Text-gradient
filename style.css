@@ -1,0 +1,14 @@
+body{
+  background:#000;
+  }
+h1 {
+  text-align:center;
+  font-size: 180px;
+
+  background: -webkit-linear-gradient(#eee, #333);
+
+  -webkit-background-clip: text;
+
+  -webkit-text-fill-color: transparent;
+
+}
